@@ -64,7 +64,7 @@ If LFIENet helps your research or work, please consider citing LFIENet.
     author    = {Ye, Wuyang and Yan, Tao and Gao, Jiahui},
     title     = {LFIENet: Light Field Image Enhancement Network by Fusing Exposures of LF-DSLR Image Pairs},
     booktitle = {IEEE Transactions on Computation Imaging (TCI)},
-    note	  = {DOI: 10.1109/TCI.2023.3288300},
+    note      = {DOI: 10.1109/TCI.2023.3288300},
     year      = {2023}
 }
 ```
