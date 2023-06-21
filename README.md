@@ -51,7 +51,7 @@ sudo pip install -r requirements.txt
 
 | name  |                             Link                             |
 | :---: | :----------------------------------------------------------: |
-| LFIED | [gdrive](https://drive.google.com/file/d/1YiQIfqYos8FsC0azmgj3CZD7aaBiunmQ/view?usp=sharing)/[百度网盘]() |
+| LFIED | [gdrive](https://drive.google.com/file/d/1YiQIfqYos8FsC0azmgj3CZD7aaBiunmQ/view?usp=sharing)/[百度网盘](https://pan.baidu.com/s/1hnBPRxW8l4ElzQAk3JMPEA?pwd=1111) |
 
 
 
