@@ -60,7 +60,7 @@ sudo pip install -r requirements.txt
 If LFIENet helps your research or work, please consider citing LFIENet.
 
 ```
-@InProceedings{Ye_2023_TCI
+@InProceedings{Ye_2023_TCI,
     author    = {Ye, Wuyang and Yan, Tao and Gao, Jiahui},
     title     = {LFIENet: Light Field Image Enhancement Network by Fusing Exposures of LF-DSLR Image Pairs},
     booktitle = {IEEE Transactions on Computation Imaging (TCI)},
